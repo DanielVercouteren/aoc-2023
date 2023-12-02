@@ -45,7 +45,6 @@ module.exports = {
         allowTemplateLiterals: true,
       },
     ],
-    semi: ['error', 'always'],
     'no-console': ['off'],
     'no-constant-condition': ['warn'],
     curly: ['error', 'all'],
