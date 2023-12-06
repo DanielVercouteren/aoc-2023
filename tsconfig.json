@@ -3,7 +3,7 @@
     "target": "es2021",
     "downlevelIteration": true,
     "module": "commonjs",
-    "noImplicitAny": true,
+    "noImplicitAny": false,
     "removeComments": true,
     "preserveConstEnums": true,
     "sourceMap": false,
